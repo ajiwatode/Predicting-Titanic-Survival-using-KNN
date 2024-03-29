@@ -18,12 +18,21 @@ The test set should be used to see how well your model performs on unseen data. 
 The following process of above project:-
 
 1.Understand different features in the training dataset
+
 2.Clean the features
+
 3.Remove outliers
+
 4.Find relation between different features and survival
+
 5.Find the best features using SelectKBest (to get an optimal fit between bias and variance)
+
 6.Train and fit the model
+
 7.Predict the scores using KNearestNeighbors
+
 8.Check Accuracy
+
 9.Predict Survival values for test.csv
+
 10.Create final file for submission
